@@ -1,33 +1,9 @@
-#Change Log
+# Changelog
+All notable changes to this project will be documented in this file.
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+# Team member : Castiel Li (CL) && Jason Chen (JC)
 
-## *Version x.x*
-
-Release Date: Jul 26, 2027
-
-## New Components
-
--   controllers
-
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
+## Jan 24, 2018
+### Updated
+- Update the change log (CL)
 
