@@ -1,7 +1,24 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-# Team member : Castiel Li (CL) && Jason Chen (JC)
+## Captain: Castiel Li (CL)
+## Team member : Jason Chen (JC)
+
+# Jan 25, 2018
+### Added
+- Add views/\_cell.php (JC)
+- Add models/images.php (JC)
+
+### Updated
+- Load images dynamically (JC)
+- Update config/autoload.php (JC)
+- Update controllers/Gallery.php (JC)
+- Update controllers/Welcome.php (JC)
+- Update views/gallery.php (JC)
+- Update views/welcome.php (JC)
+
+### Removed
+- Ignore config/database.php (JC)
 
 ## Jan 24, 2018
 ### Added
