@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 ## Captain: Castiel Li (CL)
 ## Team member : Jason Chen (JC)
 
+# Jan 26, 2018
+### Added
+- Add databse.example.php
+
+### Deleted
+- Delete database.php
+
 # Jan 25, 2018
 ### Added
 - Add views/\_cell.php (JC)
